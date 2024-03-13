@@ -6,7 +6,7 @@
 - Kan fremhæve indhold
 - Meget flexibelt
 
-## Kode eksempel på Java loop
+## Kode eksempel på javascript loop
 ```Javascript
 var fruits = ["æble", "banan", "appelsin", "jordbær"];
 
